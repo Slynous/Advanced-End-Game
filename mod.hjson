@@ -1,0 +1,6 @@
+name: Advanced-End-Game
+displayName: "[green]Advanced End-Game" //what displays in the mod selection menu
+author: "Slynous"
+description: "Add various content to the end-game"
+version: 0.1
+minGameVersion: 126
