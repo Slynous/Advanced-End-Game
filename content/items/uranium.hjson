@@ -1,6 +1,6 @@
 type: material
 name: uranium
 description: A rare resource.
-hardness: 2
-cost: 2
+hardness: 1
+cost: 4
 color: ffffff
