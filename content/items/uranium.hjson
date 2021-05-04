@@ -1,5 +1,5 @@
 type: material
-name: Uranium
+name: uranium
 description: A rare resource.
 hardness: 2
 cost: 2
