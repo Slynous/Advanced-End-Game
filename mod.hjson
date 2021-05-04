@@ -3,4 +3,5 @@ displayName: "[green]Advanced End-Game" //what displays in the mod selection men
 author: "Slynous"
 description: "Add various content to the end-game"
 version: 0.1
+repo: Slynous/Advanced-End-Game
 minGameVersion: 126
