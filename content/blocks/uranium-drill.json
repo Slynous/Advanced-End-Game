@@ -4,7 +4,7 @@
 	"type": "Drill",
 	"size": 4,
 	"tier": 5,
-	"drillTime": 400,
+	"drillTime": 150,
 	"consumes": {
 		"liquid": {
 			"liquid": "water", 
@@ -14,9 +14,10 @@
 		}
 	},
 	"requirements": [
-		{ "item": "uranium", "amount": 20 },
-		{ "item": "silicon", "amount": 10 },
-		{ "item": "graphite", "amount": 10 }
+		{ "item": "uranium", "amount": 80 },
+		{ "item": "thorium", "amount": 60 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "graphite", "amount": 40 }
 	],
 	"category": "production",
 	"research": "laser-drill"
