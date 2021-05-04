@@ -3,4 +3,4 @@ name: uranium
 description: A rare resource.
 hardness: 1
 cost: 4
-color: ffffff
+color: 00ff7f
