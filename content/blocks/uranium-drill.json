@@ -12,6 +12,7 @@
 			"optional": true,
 			"booster": true
 		}
+		"power": 3
 	},
 	"requirements": [
 		{ "item": "uranium", "amount": 80 },
