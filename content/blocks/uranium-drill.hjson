@@ -1,0 +1,22 @@
+name: Uranium Drill
+description: A very powerful drill.
+type: Drill
+size: 4
+tier: 15
+drillTime: 175
+consumes: {
+  power: 3
+  liquid: {
+    liquid: cryofluid
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  Uranium/80
+  thorium/60
+  graphite/40
+  silicon/20
+]
+category: production
+research: laser-drill
