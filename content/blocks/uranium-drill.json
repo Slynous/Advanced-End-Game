@@ -2,7 +2,7 @@
 	"name": "Uranium Drill",
 	"description": "A cheap drill for everything.",
 	"type": "Drill",
-	"size": 4,
+	"size": 5,
 	"tier": 5,
 	"drillTime": 150,
 	"consumes": {
