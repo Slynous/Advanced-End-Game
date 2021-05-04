@@ -1,3 +1,4 @@
 type: OreBlock
 itemDrop: uranium
-tier: 2
+playerUnmineable: true
+hardness: 2
